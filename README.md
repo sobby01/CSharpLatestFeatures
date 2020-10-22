@@ -1,10 +1,6 @@
 <div align="center">
 	<h2>Latest Features of CSharp</h2><br/>
 	<p>Learn all the latest CSharpfeatures</p>
-	
-	<sub>
-	 Author: <a href="https://www.linkedin.com/in/sobby01/" target="_blank">Saurabh Singh</a><br>
-	</sub>
 </div>
 
  ## CSharp-6
@@ -19,6 +15,12 @@
   8. Null Propagator
   9. Dictionary Initializer
 
-
+ ## CSharp-7
+ 
+ 1. Pattern Matching
+ 2. Tuples
+ 3. Deconstruction
+ 4. Local Functions
+ 5. Digit Separator
 
 
