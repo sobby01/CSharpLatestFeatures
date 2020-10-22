@@ -23,7 +23,7 @@ namespace CSharpLatestFeatures
             }
         }
 
-        public async void Filters()
+        public async void AFilters()
         {
             try
             {

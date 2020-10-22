@@ -6,7 +6,9 @@ namespace CSharpLatestFeatures
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DynamicBinding dBinding = new DynamicBinding();
+            dBinding.DynamicMethod();
+            Console.ReadKey();
         }
     }
 }
