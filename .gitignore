@@ -4,4 +4,9 @@
 
 /CSharpLatestFeatures/.vs/CSharpLatestFeatures/v16/.suo
 /CSharpLatestFeatures/bin/Debug/netcoreapp3.1
-/CSharpLatestFeatures/obj/Debug
+/CSharpLatestFeatures/obj
+/CSharpLatestFeatures/TestApp/obj/Debug
+/CSharpLatestFeatures/TestApp/bin/Debug
+/TestApp/bin/Debug
+/TestApp/obj
+/CSharpLatestFeatures/bin/
