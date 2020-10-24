@@ -25,5 +25,20 @@ namespace TestApp
             toSend.Invoke(result);
         }
 
+        public void Method1(int message)
+        {
+            Console.WriteLine($"First Message : {message}");
+        }
+
+        public void Method2(int message)
+        {
+            Console.WriteLine($"Second Message : {message}");
+        }
+
+        public void Method3(int message)
+        {
+            Console.WriteLine($"Third Message : {message}");
+        }
+
     }
 }

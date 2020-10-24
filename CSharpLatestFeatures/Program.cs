@@ -6,6 +6,11 @@ namespace CSharpLatestFeatures
     {
         static void Main(string[] args)
         {
+            MulticastDelegate mcDelegate = new MulticastDelegate();
+            mcDelegate.TestMultiCastDelegate();
+            Console.ReadKey();
+            return;
+
             DelegateImpl dImpl = new DelegateImpl();
             dImpl.TestDelegate();
             Console.ReadKey();
